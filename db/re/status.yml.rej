@@ -1,0 +1,6 @@
+diff a/db/re/status.yml b/db/re/status.yml	(rejected hunks)
+@@ -8977,4 +8977,3 @@ Body:
+       NoDispell: true
+       NoBanishingBuster: true
+       NoClearance: true
+-      NoSave: true

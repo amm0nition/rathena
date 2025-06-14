@@ -48,6 +48,7 @@ Header:
 
 Footer:
   Imports:
+  - Path: npc/re/merchants/barters/biosphere_depth1.yml
   - Path: npc/re/merchants/barters/cashmall.yml
   - Path: npc/re/merchants/barters/enchan_illusion_dungeons.yml
   - Path: npc/re/merchants/barters/enchantgrade.yml
